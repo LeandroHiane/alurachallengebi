@@ -28,6 +28,7 @@ Algumas colunas adicionais foram criadas com DAX para facilitar os cálculos das
 ![image](https://user-images.githubusercontent.com/90648655/133151343-b572ce33-6598-40fe-bc97-123ed95df4d4.png)
 
 Medidas criadas:
+
 Medida | Fórmula
 ------------ | -------------
 % Entregas realizadas dentro do prazo | DIVIDE([Entregas realizadas dentro do prazo],[Entregas realizadas])
