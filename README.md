@@ -27,6 +27,7 @@ Algumas colunas adicionais foram criadas com DAX para facilitar os cálculos das
 
 ![image](https://user-images.githubusercontent.com/90648655/133151343-b572ce33-6598-40fe-bc97-123ed95df4d4.png)
 
+Medidas criadas:
 Medida | Fórmula
 ------------ | -------------
 % Entregas realizadas dentro do prazo | DIVIDE([Entregas realizadas dentro do prazo],[Entregas realizadas])
@@ -42,3 +43,9 @@ Ranking produtos quantidade | RANKX(ALL(Pedidos[Desc Produto]),[Quantidade produ
 Ranking produtos receita pedidos | RANKX(ALL(Pedidos[Desc Produto]),[Receita pedidos])
 Receita pedidos | SUM(Pedidos[Receita pedido])
 Receita pedidos acumulado | CALCULATE([Receita pedidos],TOPN([Ranking produtos receita pedidos],ALL(Pedidos[Desc Produto]),[Receita pedidos],DESC))
+
+### :fast_forward: Etapa 3: montagem do dashboard
+O esquema de cores utilizado foi o Daltônico (nativo do pBI), buscando por bastante contraste entre as informações, os gráficos e o background com o objetivo de tornar o dashboard acessível.
+
+![image](https://user-images.githubusercontent.com/90648655/133153561-028d44cc-084c-4324-a3c1-524363c85175.png)
+
