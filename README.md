@@ -1,2 +1,2 @@
 # alurachallengebi
-Repositório para o Challenge Bi da Alura #alurachallengebi
+Repositório para o Challenge BI da Alura #alurachallengebi
