@@ -48,5 +48,16 @@ Receita pedidos acumulado | CALCULATE([Receita pedidos],TOPN([Ranking produtos r
 ### :fast_forward: Etapa 3: montagem do dashboard
 O esquema de cores utilizado foi o Daltônico (nativo do pBI), buscando por bastante contraste entre as informações, os gráficos e o background com o objetivo de tornar o dashboard acessível.
 
+Capa do dashboard:
+
 ![image](https://user-images.githubusercontent.com/90648655/133153561-028d44cc-084c-4324-a3c1-524363c85175.png)
+
+Detalhe da tooltip para os veículos disponíveis:
+
+![image](https://user-images.githubusercontent.com/90648655/133154258-547a5605-711d-48d0-9c00-22452a8f98b7.png)
+
+### :fire: Plus!
+Além dos indicadores solicitados, uma página adicional com informações gerenciais foi criada para proporcionar insights ao negócio.
+
+![image](https://user-images.githubusercontent.com/90648655/133155611-02fd2184-bce7-4478-8252-e63e2aada43c.png)
 
