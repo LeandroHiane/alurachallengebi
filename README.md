@@ -52,6 +52,8 @@ Capa do dashboard:
 
 ![image](https://user-images.githubusercontent.com/90648655/133153561-028d44cc-084c-4324-a3c1-524363c85175.png)
 
+:heavy_check_mark: Plus! Adicionado o indicador da quantidade de pedidos atrasados.
+
 Detalhe da tooltip para os veículos disponíveis:
 
 ![image](https://user-images.githubusercontent.com/90648655/133154258-547a5605-711d-48d0-9c00-22452a8f98b7.png)
@@ -59,5 +61,10 @@ Detalhe da tooltip para os veículos disponíveis:
 ### :fire: Plus!
 Além dos indicadores solicitados, uma página adicional com informações gerenciais foi criada para proporcionar insights ao negócio.
 
-![image](https://user-images.githubusercontent.com/90648655/133155611-02fd2184-bce7-4478-8252-e63e2aada43c.png)
+:heavy_check_mark: Receita total dos pedidos + tabela ordenada pelas categorias de produtos que mais geraram receita.
 
+:heavy_check_mark: Quantidade total dos produtos entregues + tabela ordenada pelas categorias de produtos com maior quantidade entregue.
+
+:heavy_check_mark: Distribuição da quantidade de pedidos pelo modal de transporte utilizado.
+
+![image](https://user-images.githubusercontent.com/90648655/133155611-02fd2184-bce7-4478-8252-e63e2aada43c.png)
