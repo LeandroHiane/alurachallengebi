@@ -19,6 +19,7 @@ A pessoa que gerencia a área de logística da Alura Log, está enfrentando algu
 
 ### :fast_forward: Etapa 1: ETL
 As fontes de dados são 4 planilhas em .csv extraídas para o Power BI através do Power Query. As principais transformações necessárias foram divisão de coluna, substituição de valor, tratamento de datas (formato EUA) e join. Nessa etapa, também são revisados/criados os relacionamentos entre as tabelas carregadas.
+
 ![image](https://user-images.githubusercontent.com/90648655/133150865-5f6bf6a3-64ed-4434-befb-6b7a18abba59.png)
 
 ### :fast_forward: Etapa 2: criação das medidas (indicadores)
