@@ -133,6 +133,8 @@ E a segunda com a Visão Custos e Retorno:
 
 :bulb: Além disso, o dados mostram que os anúncios exibidos no **feed** são a melhor opção para conversão. Capriche no copy e no design desse formato!
 
-:heavy_check_mark: Na Visão Custos e Retorno, foi adicionado o indicador ROAS total, pois não faz sentido vê-lo apenas quebrado por idade e gênero. Além disso, ver o custo quebrado por dia auxilia no entendimento das sazonalidades, que podem indicar aumento de cliques por parte dos usuários, aumento da concorrência elevando o CPC, etc.
+:heavy_check_mark: Na Visão Custos e Retorno, foi adicionado o indicador ROAS total, pois não faz sentido vê-lo apenas quebrado por idade e gênero.
 
-![image](https://user-images.githubusercontent.com/90648655/134403644-14e3f197-de4e-4bf9-9f97-798305079a71.png)
+:heavy_check_mark: Além disso, ver o valor gasto e a quantidade de cliques quebrados por dia auxilia no entendimento das sazonalidades ou melhoras no desempenho dos anúncios. Ambos os dados também podem indicar um aumento da concorrência, elevando o CPC, por exemplo.
+
+![image](https://user-images.githubusercontent.com/90648655/134408254-6db99bac-252f-40fa-adcc-f996f3d7b801.png)
