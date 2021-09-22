@@ -3,7 +3,7 @@ O desafio consiste em desenvolver dashboards de logística, marketing e financei
 
 [Semana 1: Logística](https://github.com/LeandroHiane/alurachallengebi/blob/main/README.md#truck-semana-1-log%C3%ADstica-alura-log)
 
-[Semana 2: Marketing](https://github.com/LeandroHiane/alurachallengebi/blob/main/README.md#shopping_cart-semana-2-marketing-alura-shop)
+[Semana 2: Marketing](https://github.com/LeandroHiane/alurachallengebi#shopping_cart-semana-2-marketing-alura-shop)
 
 [Semana 3 e 4: Financeiro] | Em Breve! 🔥
 
